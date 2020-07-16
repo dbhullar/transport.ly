@@ -1,0 +1,15 @@
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/transport.ly.deps.json
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/transport.ly.runtimeconfig.json
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/transport.ly.runtimeconfig.dev.json
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/transport.ly.dll
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/transport.ly.pdb
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.csprojAssemblyReference.cache
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.AssemblyInfoInputs.cache
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.AssemblyInfo.cs
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.csproj.CoreCompileInputs.cache
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.dll
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.pdb
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.genruntimeconfig.cache
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/danny/src/transport.ly/obj/Debug/netcoreapp3.1/transport.ly.csproj.CopyComplete
+/Users/danny/src/transport.ly/bin/Debug/netcoreapp3.1/orders.json

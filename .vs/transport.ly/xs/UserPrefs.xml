@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1B19ED67-BE47-4917-82B0-F2D32D81B71F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Services/FleetService.cs" Line="57" Column="35" />
+      <File FileName="Models/Flight.cs" Line="36" Column="1" />
+      <File FileName="Services/OrderService.cs" />
+      <File FileName="Models/Order.cs" />
+      <File FileName="Models/ItineraryItem.cs" />
+      <File FileName="Models/Airport.cs" />
+      <File FileName="InventoryManager.cs" Line="32" Column="13" />
+      <File FileName="Services/IOrderService.cs" />
+      <File FileName="Services/IFleetService.cs" Line="10" Column="21" />
+      <File FileName="Program.cs" Line="23" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="transport.ly" expanded="True" selected="True">
+            <Node name="transport.ly" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.transport.ly PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
