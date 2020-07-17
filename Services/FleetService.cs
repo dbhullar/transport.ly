@@ -42,13 +42,11 @@ namespace transport.ly.Services
 
         public void ListFlightSchedule()
         {
-
             Fleet.ForEach(flight => flight.PrintItinerary());
         }
 
         public void GenerateFlightItineraries(Dictionary<string, Order> orders)
         {
-            int countNotAdded = 0;
             foreach (var kvp in orders)
             {
                 bool added = false;
@@ -66,17 +64,16 @@ namespace transport.ly.Services
                 if (!added)
                 {
                     Console.WriteLine("order: {0}, flightNumber: not scheduled", kvp.Key);
-                    countNotAdded++;
                 }
-
-
             }
+        }
+
+        public void PrintFlightCapacity()
+        {
             foreach (var flight in Fleet)
             {
                 Console.WriteLine("flight {0}, arrival: {1} packages: {2}", flight.Identifier, flight.Itinerary.Last().Location, flight.Packages.Count);
             }
-
-            Console.WriteLine("not scheduled packages: {0}", countNotAdded);
         }
     }
 }
